@@ -1,4 +1,4 @@
-# **[Bento grid solution](https://github.com/Saras171/bento-grid.git)**
+# **[Bento grid]( https://saras171.github.io/bento-grid/)**
 
 This is a solution to the [Bento grid challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -51,7 +51,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Bento Grid Solution](https://github.com/Saras171/bento-grid.git)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Bento Grid Solution]( https://saras171.github.io/bento-grid/)
 
 
 
